@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💻 Hi, I'm Deepak Polisetti!  
+🚀 B.Tech CSE (AI & ML) Student | Developer | Kaggle Enthusiast  
 
-<!--
-**DEEPAK21072005/DEEPAK21072005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 My Tech Stack:  
+- 🌐 HTML, CSS, JavaScript  
+- 📊 Python (AI/ML), SQL  
+- 📚 PHP, Jupyter  
 
-Here are some ideas to get you started:
+### 🚀 Projects:  
+- **Expense Tracker Pro App:**  
+  - [GitHub Link](https://github.com/DEEPAK21072005/Expense-Tracker-App)  
+  - Expense management with PDF generation and dual-mode functionality.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:  
+- [LinkedIn](https://www.linkedin.com/in/deepak-polisetti)  
+- [Kaggle](https://www.kaggle.com/deepakpolisetti)  
+- [Twitter](https://twitter.com/_gentle_man_21)  
