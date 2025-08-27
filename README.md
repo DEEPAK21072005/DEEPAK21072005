@@ -1,4 +1,4 @@
-# 💻 Hi, I'm Deepak Polisetti!  
+# 💻 Hi, I'm Deepak Polisetti! (Seo Jun Wook)
 🚀 B.Tech CSE (AI & ML) Student | Developer | Kaggle Enthusiast  
 
 ### 🔥 My Tech Stack:  
