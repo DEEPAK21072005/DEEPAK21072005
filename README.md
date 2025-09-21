@@ -1,15 +1,14 @@
 # 💻 Hi, I'm Deepak Polisetti! (Seo Jun Wook)
-🚀 B.Tech CSE (AI & ML) Student | Developer | Kaggle Enthusiast  
+🚀 B.Tech CSE (AI & ML) Student | Analyst | Kaggle Enthusiast| Future Data Scientist  
 
 ### 🔥 My Tech Stack:  
-- 🌐 HTML, CSS, JavaScript  
+- 🌐 Power BI, Tableau, Excel
 - 📊 Python (AI/ML), SQL  
 - 📚 PHP, Jupyter  
 
 ### 🚀 Projects:  
 - **Expense Tracker Pro App:**  
-  - [GitHub Link](https://github.com/DEEPAK21072005/Expense-Tracker-App)  
-  - Expense management with PDF generation and dual-mode functionality.  
+  - Kindly please check my Repositories 
 
 ### 📫 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/deepak-polisetti)  
