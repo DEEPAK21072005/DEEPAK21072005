@@ -99,10 +99,10 @@ flowchart LR
 
 ## 💼 Professional Experience & Simulations
 
-- **IBM AI & Cloud Intern** — *Edunet Foundation × AICTE* `(Jul 2025 – Aug 2025)`
+- **IBM AI & Cloud Intern** — *IBM* `(Jul 2025 – Aug 2025)`
   - Engineered WatsonX AI chatbot, reducing query resolution turnaround by 40%.
   - Built Python data pipelines on IBM Cloud with real-time decision support capabilities.
-- **Shell Green Skills Intern** — *Shell India × AICTE* `(Jul 2025 – Aug 2025)`
+- **Shell Green Skills Intern** — *Shell India* `(Jul 2025 – Aug 2025)`
   - Formulated GHG emissions predictive models and built interactive Power BI ESG reporting dashboards.
   - Handled data cleaning, validation, and reconciliation across multi-year energy datasets.
 - **Industry Job Simulations (Forage)**
@@ -115,7 +115,7 @@ flowchart LR
 
 ## 📜 Key Certifications & Honors (Selected)
 
-- 🏆 **IBM SkillsBuild:** *AI & Cloud Mastery* \| *RAG with LangChain* \| *Document Retrieval with IBM Granite & Docling*
+- 🏆 **IBM:** *AI & Cloud Mastery* \| *RAG with LangChain* \| *Document Retrieval with IBM Granite & Docling*
 - 🏆 **Google Cloud:** *Generative AI Studio Essentials*
 - 🏆 **AWS:** *Introduction to AWS Cloud Adoption Framework (CAF)*
 - 🏆 **Research Presentation:** *AI Governance & Policy* presented at international conference **ICASDGAI-2025**
