@@ -105,7 +105,7 @@ flowchart LR
 - **Shell Green Skills Intern** — *Shell India* `(Jul 2025 – Aug 2025)`
   - Formulated GHG emissions predictive models and built interactive Power BI ESG reporting dashboards.
   - Handled data cleaning, validation, and reconciliation across multi-year energy datasets.
-- **Industry Job Simulations (Forage)**
+- **Industry Job Simulations**
   - **JP Morgan:** Software Engineering & Investment Banking
   - **Deloitte:** Data Analytics & Technology Solutions
   - **Tata:** Data Visualisation & GenAI Powered Analytics
